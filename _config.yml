@@ -1,0 +1,9 @@
+title: Jazz43
+baseurl: /
+  
+# Social Media
+google_analytics_tracking_id:
+
+markdown: kramdown
+  
+highlighter: rouge
